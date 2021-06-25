@@ -1,0 +1,33 @@
+body{
+    background-color: darkblue;
+    color: gold;
+    font-family: 'Courier New', Courier, monospace;
+}
+#pageTitle{
+    font-size: 3.5em;
+    margin-bottom: 3%;
+}
+.navBar{
+    width: 80%;
+    margin: auto;    
+    text-align: center;
+}
+.login{
+    width: 76%;
+    margin:auto;
+    text-align: center;
+    font-size: 1.5em;
+}
+#loginForm{
+    width: 74%;
+    margin: auto;
+}
+.login input{
+    width: 20em;
+    height: 2em;
+}
+#logo{
+    width: 50%;
+    margin-bottom: 1%;
+    margin-top: .1%;
+}

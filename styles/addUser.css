@@ -1,0 +1,25 @@
+.addUserFormContainer{
+    max-width: 30%;
+    margin: auto;      
+}
+#textContainer{
+    margin: auto;
+}
+#textContainer label{
+    width: 12em;
+    text-align: right;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    display: inline-block;
+}
+#textContainer input{
+    width: 10em;
+}
+.submitControls{
+    width: 20%;
+    margin:auto;
+    text-align:center;
+}
+.submitControls input{
+    margin-bottom: 1em;
+}

@@ -1,0 +1,61 @@
+.recentPosts{
+    border:gold .3em solid;
+}
+.recentPosts h2{
+    text-align: center;
+    font-size: 2em;
+}
+.recentPosts table{
+    width: 86%;
+    margin:auto;    
+    margin-bottom: .2em;
+}
+.border{
+    border: gold .1em solid;
+    padding: 1em;
+}
+#logo{
+    width: 30%;
+}
+#welcomeMessage{
+    font-size: 2.3em;
+}
+.navbarContainer button{
+    width: 10em;
+    
+}
+td{
+    background-color: darkblue;
+}
+.discordAd{
+    border: gold .3em solid;
+    padding: 1em;
+    width: 60%;
+    padding: .5em;
+    margin: auto;
+    margin-top: 2em;
+}
+#adDescription{
+    width: 30%;
+    float: right;  
+}
+#postsTable_filter{
+    color: gold;
+    font-family: 'Courier New', Courier, monospace;
+}
+#postsTable_filter input{
+    color: gold;
+    font-family: 'Courier New', Courier, monospace;
+}
+#postsTable_info{
+    color: gold;
+    font-family: 'Courier New', Courier, monospace;
+}
+#postsTable_length{
+    color: gold;
+    font-family: 'Courier New', Courier, monospace;
+}
+#postsTable_length select{
+    color: gold;
+    font-family: 'Courier New', Courier, monospace;
+}

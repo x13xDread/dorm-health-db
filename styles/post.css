@@ -1,0 +1,10 @@
+.formContainer{
+    width: 90%;
+    text-align: center;
+    margin: auto;
+}
+.radioButtonsContainers{
+    text-align: left;    
+    width: 10%;
+    margin: auto;
+}
