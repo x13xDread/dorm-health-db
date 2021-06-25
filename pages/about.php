@@ -26,12 +26,6 @@
             (WVU). The first official version of the database 1.0, was finished in under 2 weeks and
             was submitted for three different computer science projects. Future versions of the site
             are subject to change to meet the needs of future roomates.</p>
-            <h2>x13xDread</h2>
-            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>x13xDread</b> is a command-line programmer that specializes in
-            <b>Object Oriented Programming (OOP)</b> and <b>Web Design</b>. Dread's favorite languages are C#, .NET CORE,
-            and Java, however, he is also proficient in HTML5, CSS, Javascript, PHP, MySQL, C++, and Visual Basic.
-            He is currently learning Ruby (RoR), React, Razor Pages .NET CORE, and Python. He is studying to
-            become an offensive cybersecurity agent.</p>
         </div>
     </body>
 </html>
