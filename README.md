@@ -1,3 +1,6 @@
+# Update
+This project is being completely re-done and when completed, this repo will be archived.
+
 # Getting Started
 This application is built to run an apache 2 webserver and a MySql db and runs locally on your network. It is suggested that the application is ran on a linux platform or Raspberry Pi as thats the only two platforms its currently been tested. It should still work on a Windows or Mac device but just a fair warning the setup will not follow the following steps
 
