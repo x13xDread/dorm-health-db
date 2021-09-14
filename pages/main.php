@@ -7,7 +7,7 @@ header("Location: ../index.php");
 //connection info
 $servername = "localhost";
 $username = "root";
-$password = "Brogan48481200";
+$password = "Elan2244";
 $dbname = "dorm_health_db";
 
 
